@@ -4,6 +4,7 @@ body{
 }
 .container{
 	height: 60px;
+	width: 100%;
 	background: #38b779;
 	color: #fff;
 	line-height: 60px;
