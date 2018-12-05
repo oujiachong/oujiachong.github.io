@@ -17,3 +17,6 @@ body{
 .top-right{
 	float: right;
 }
+.top-right a{
+	text-decoration: none;
+}
