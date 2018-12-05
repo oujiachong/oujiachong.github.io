@@ -3,7 +3,7 @@ body{
 	padding: 0;
 }
 .container{
-	height: 60px;
+
 
 	background-color: #38b774;
 	color: #fff;
@@ -17,4 +17,5 @@ body{
 }
 .top-right{
 	float: right;
+	margin-right: 10px;
 }
