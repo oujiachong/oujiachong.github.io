@@ -3,21 +3,10 @@ body{
 	padding: 0;
 }
 .container{
+	height: 60px;
 	background: #38b779;
 	color: #fff;
-}
-.top{
 	line-height: 60px;
 	text-align: center;
-	font-size: 14px;
-}
-.top-left{
-	float: left;
-}
-.top-right{
-	float: right;
-}
-.top-right a{
-	text-decoration: none;
 }
 
