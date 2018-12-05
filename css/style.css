@@ -2,10 +2,7 @@ body{
 	margin: 0;
 	padding: 0;
 }
-.container{
-	background-color: #38b774;
-	color: #fff;
-}
+
 .top{
 	line-height: 60px;
 	text-align: center;
