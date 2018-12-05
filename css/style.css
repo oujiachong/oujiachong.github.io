@@ -2,7 +2,6 @@ body{
 	margin: 0;
 	padding: 0;
 }
-
 .top{
 	line-height: 60px;
 	text-align: center;
@@ -12,5 +11,5 @@ body{
 	float: left;
 }
 .top-right{
-	float: right;
-}
+	float: right;}
+
