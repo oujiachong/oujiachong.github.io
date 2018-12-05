@@ -10,7 +10,8 @@ body{
 }
 .top{
 	line-height: 60px;
-		text-align: center;
+	text-align: center;
+	font-size: 14px;
 }
 .top-left{
 	float: left;
