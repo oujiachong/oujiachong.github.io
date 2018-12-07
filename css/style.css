@@ -53,6 +53,10 @@ a{
 .side-list a{
 	color: #38b774;
 }
+.side-list ul li{
+	display: block;
+	line-height: 25px;
+}
 .side-title{
 	border-bottom: 1px dashed #dadada;
 }
