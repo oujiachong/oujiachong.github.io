@@ -4,6 +4,9 @@ body{
 	font-family: Arial;
 	color: #38b774;
 }
+a{
+	text-decoration: none;
+}
 .top{
 	height: 60px;
 	color: #fff;
