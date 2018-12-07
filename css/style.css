@@ -2,6 +2,19 @@ body{
 	margin: 0;
 	padding: 0;
 }
+.top{
+	height: 60px;
+	color: #38b774;
+	
+}
+.top-left{
+	float: left;
+	line-height: 60px;
+}
+.top-right{
+	float: right;
+	line-height: 60px;
+}
 .a{
 	color: #38b774;
 	width: 100%;
