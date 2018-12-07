@@ -41,6 +41,9 @@ a{
 .side-list ul{
 	text-align: left;
 }
+.side-list a{
+	color: #38b774;
+}
 .side-title{
 	border-bottom: 1px dashed #dadada;
 }
