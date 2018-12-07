@@ -30,7 +30,7 @@ body{
 .side{
 	border: 1px solid #dadada;
 	width: 200px;
-
+	border-radius: 4px;
 	text-align: center;
 	margin-top: 2px;
 }
