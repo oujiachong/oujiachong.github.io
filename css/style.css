@@ -6,6 +6,8 @@ body{
 	height: 60px;
 	color: #fff;
 	background: #38b779;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 .top-left{
 	float: left;
