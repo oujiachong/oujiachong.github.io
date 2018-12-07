@@ -38,6 +38,10 @@ a{
 	margin-top: 10px;
 	margin-left: 50px;
 }
+.side-title{
+	background: #38b774;
+	color: #fff;
+}
 .side-list ul{
 	text-align: left;
 }
