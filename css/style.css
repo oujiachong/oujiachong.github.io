@@ -27,9 +27,10 @@ body{
 	margin-right: 10px;
 }
 .side{
-	border: 1px solid #38b774;
+	border: 1px solid #9BCD9B;
 	width: 200px;
 	height: 300px;
 	text-align: center;
+	margin-top: 2px;
 }
 
