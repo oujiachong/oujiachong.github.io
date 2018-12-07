@@ -41,9 +41,10 @@ a{
 .side-title{
 	background: #38b774;
 	color: #fff;
+	height: 30px;
 }
-.side-title p{
-	margin-top: 0;
+.side-title span{
+	line-height: 30px;
 }
 
 .side-list ul{
