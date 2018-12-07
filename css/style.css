@@ -16,6 +16,7 @@ body{
 }
 .top-right a{
 	text-decoration: none;
+	color: #fff;
 }
 .top-right a:hover,.top-right a:visited{
 	color: #fff;
