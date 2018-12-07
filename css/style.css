@@ -13,6 +13,9 @@ body{
 	line-height: 60px;
 	margin-left: 10px;
 }
+.top-right a:hover,.top-right a:visited{
+	color: #fff;
+}
 .top-right{
 	float: right;
 	line-height: 60px;
