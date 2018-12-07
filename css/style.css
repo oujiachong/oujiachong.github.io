@@ -4,8 +4,8 @@ body{
 }
 .top{
 	height: 60px;
-	color: #38b774;
-	
+	color: #fff;
+	background: #38b779;
 }
 .top-left{
 	float: left;
