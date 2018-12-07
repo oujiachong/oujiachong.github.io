@@ -35,4 +35,7 @@ body{
 	margin-top: 10px;
 	margin-left: 10px;
 }
+.side-list ul{
+	text-align: left;
+}
 
