@@ -38,4 +38,7 @@ body{
 .side-list ul{
 	text-align: left;
 }
+.side-title{
+	border-bottom: 1px dashed #dadada;
+}
 
