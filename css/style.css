@@ -37,12 +37,15 @@ a{
 	text-align: center;
 	margin-top: 10px;
 	margin-left: 50px;
-	padding-top: 0;
 }
 .side-title{
 	background: #38b774;
 	color: #fff;
 }
+.side-title p{
+	margin-top: 0;
+}
+
 .side-list ul{
 	text-align: left;
 }
