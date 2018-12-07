@@ -25,25 +25,4 @@ body{
 	line-height: 60px;
 	margin-right: 10px;
 }
-.oops{
-	color: #38b774;
-	width: 100%;
-	text-align: center;
-	height: 30px;
-	margin-top: 30px;
-}
-.container{
-	height: 300px;
-	width: 300px;
-	background: #38b779;
-	color: #fff;
-	line-height: 300px;
-	text-align: center;
-	position: absolute;
-	top:50%;
-	left: 50%;
-	margin-top: -150px;
-	margin-left: -150px;
-	border-radius:4px;
-}
 
